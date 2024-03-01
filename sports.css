@@ -34,7 +34,7 @@ nav ul li:last-child {
 
 nav ul li a {
   text-decoration: none;
-  color: #fff;
+  color: black;
 }
 /* Resetting default margin and padding */
 * {
