@@ -9,7 +9,7 @@
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #3498db, #8e44ad);
-  color: #fff;
+  color: black;
   overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
